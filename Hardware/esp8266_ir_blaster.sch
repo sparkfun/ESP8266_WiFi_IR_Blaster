@@ -20449,6 +20449,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="-8" y="12"/>
 <vertex x="8" y="12"/>
 </polygon>
+<smd name="P$1" x="0" y="-1.2" dx="3.2" dy="3.2" layer="1" cream="no"/>
+<rectangle x1="-1.016" y1="-2.159" x2="0.984" y2="-0.159" layer="31"/>
 </package>
 </packages>
 <symbols>
