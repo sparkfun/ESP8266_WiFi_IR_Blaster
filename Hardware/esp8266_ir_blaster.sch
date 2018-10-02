@@ -20690,18 +20690,19 @@ a microprocessor for decoding.&lt;/p&gt;</description>
 <wire x1="203.2" y1="124.46" x2="203.2" y2="185.42" width="0.2032" layer="97" style="longdash"/>
 <wire x1="154.94" y1="185.42" x2="154.94" y2="124.46" width="0.2032" layer="97" style="longdash"/>
 <wire x1="106.68" y1="124.46" x2="106.68" y2="185.42" width="0.2032" layer="97" style="longdash"/>
-<text x="63.5" y="180.34" size="2.54" layer="94">IR Receiver -- 38kHz</text>
-<text x="109.22" y="180.34" size="2.54" layer="94">IR Emitter</text>
-<text x="157.48" y="180.34" size="2.54" layer="94">Boot Mode/Buttons</text>
-<text x="205.74" y="180.34" size="2.54" layer="94">Boot Mode Default-Select</text>
-<text x="149.86" y="119.38" size="2.54" layer="94">Deep Sleep Jumper</text>
-<text x="149.86" y="83.82" size="2.54" layer="94">Headers</text>
-<text x="2.54" y="119.38" size="2.54" layer="94">ESP-12S</text>
+<text x="63.5" y="180.34" size="2.54" layer="94" font="vector">IR Receiver -- 38kHz</text>
+<text x="109.22" y="180.34" size="2.54" layer="94" font="vector">IR Emitter</text>
+<text x="157.48" y="180.34" size="2.54" layer="94" font="vector">Boot Mode/Buttons</text>
+<text x="205.74" y="180.34" size="2.54" layer="94" font="vector">Boot Mode Default-Select</text>
+<text x="149.86" y="119.38" size="2.54" layer="94" font="vector">Deep Sleep Jumper</text>
+<text x="149.86" y="83.82" size="2.54" layer="94" font="vector">Headers</text>
+<text x="2.54" y="119.38" size="2.54" layer="94" font="vector">ESP-12S</text>
 <text x="177.8" y="93.98" size="1.778" layer="96" font="vector">Close JP1 to enable deep sleep on the ESP8266</text>
-<text x="53.34" y="81.28" size="1.778" layer="96" font="vector">VCC Range: 3.0-3.6V</text>
+<text x="2.54" y="116.84" size="1.778" layer="96" font="vector">VCC Range: 3.0-3.6V</text>
 <wire x1="60.96" y1="124.46" x2="60.96" y2="185.42" width="0.2032" layer="97" style="longdash"/>
-<text x="2.54" y="180.34" size="2.54" layer="94">Voltage Regulator</text>
+<text x="2.54" y="180.34" size="2.54" layer="94" font="vector">Voltage Regulator</text>
 <text x="168.91" y="6.858" size="2.54" layer="94" font="vector">Andy England</text>
+<text x="2.54" y="177.8" size="1.778" layer="97" font="vector">VIN: 2.5V-6.0V</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
