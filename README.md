@@ -1,9 +1,9 @@
-SparkX ESP8266 WiFi IR Blaster
+SparkFun WiFi IR Blaster (ESP8266)
 ========================================
 
-[![SparkX ESP8266 WiFi IR Blaster](https://cdn.sparkfun.com//assets/parts/1/3/3/1/3/15000-WiFi_IR_Blaster-05.jpg)](https://www.sparkfun.com/products/15000)
+[![SparkFun ESP8266 WiFi IR Blaster](https://cdn.sparkfun.com/assets/parts/1/3/3/5/8/15031-SparkFun_WiFi_IR_Blaster__ESP8266_-01.jpg)](https://www.sparkfun.com/products/15031)
 
-[*SparkX  ESP8266 WiFi IR Blaster (SPX-15000)*](https://www.sparkfun.com/products/15000)
+[*SparkFun ESP8266 WiFi IR Blaster (DEV-15031)*](https://www.sparkfun.com/products/15031)
 
 The WiFi IR Blaster is designed to connect all of your old, legacy IR-controlled devices to a WiFi network -- exposing them to a new method of control. Want to control your TV via a web-browser? Want to ask Alexa to mute your stereo? Want to schedule triggers to your IR-controlled LED strip? These are all applications that the WiFi IR Blaster is perfect for.
 
