@@ -22,6 +22,12 @@ Repository Contents
 * **/Documents** - Datasheets
 * **/Firmware** - Example code and esp32-Arduino board files
 
+
+Documentation
+--------------
+
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-wifi-ir-blaster-hookup-guide)** - Basic hookup guide.
+
 License Information
 -------------------
 
