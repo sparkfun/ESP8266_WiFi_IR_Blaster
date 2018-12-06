@@ -20,8 +20,8 @@ Repository Contents
 -------------------
 
 * **/Documents** - Datasheets
-* **/Firmware** - Example code and esp32-Arduino board files
-
+* **/Hardware** - Eagle design files (.brd, .sch)
+* **/Production** - Production panel files (.brd)
 
 Documentation
 --------------
